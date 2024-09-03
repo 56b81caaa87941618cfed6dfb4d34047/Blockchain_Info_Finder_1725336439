@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"add a button that says 'Hello World'\", \"checked\": false}, {\"feature\": \"add a search bar for blockchain topics\", \"checked\": true}, {\"feature\": \"include a filter option for recent news\", \"checked\": false}, {\"feature\": \"add user feedback section\", \"checked\": false}, {\"feature\": \"create a favorites section for saved articles\", \"checked\": false}], \"input_token_count\": 269, \"output_token_count\": 94, \"time_taken\": \"0:00:01.215493\"}",
+        "timestamp": "03092024040931",
+        "message_id": "guest03092024040921"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What color or style do you envision for the 'Submit' button?\", \"option1\": \"Classic blue with rounded edges\", \"option2\": \"Bold red with sharp corners\"}], \"input_token_count\": 315, \"output_token_count\": 96, \"time_taken\": \"0:00:00.984310\"}",
         "timestamp": "03092024040928",
