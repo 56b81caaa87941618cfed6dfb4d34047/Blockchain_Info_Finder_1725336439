@@ -6,6 +6,19 @@ INSTRUCTION: Both of these lines are center aligned.
 
 <template>
     <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
+        <div class="flex">
+            <!-- Sidebar -->
+            <div class="w-64 bg-gray-100 dark:bg-gray-700 p-4">
+                <nav>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="block py-2 px-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600 rounded">Home</a></li>
+                        <li><a href="#" class="block py-2 px-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600 rounded">About</a></li>
+                        <li><a href="#" class="block py-2 px-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600 rounded">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <!-- Main Content -->
+            <div class="flex-1">
         <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
             <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
             <div id="footer-content" class="text-center">
@@ -29,7 +42,9 @@ INSTRUCTION: Both of these lines are center aligned.
                     </button>
                 </div>
             </div>
+            </div>
         </div>
+    </footer>
     </footer>
 </template>
 
