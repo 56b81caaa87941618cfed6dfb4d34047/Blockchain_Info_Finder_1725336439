@@ -10,55 +10,88 @@
     {
         "role": "chat_acknowledge",
         "content": "Okay, I\u2019ll add a sidebar with the specified navlinks.",
+        "message_id": "guest03092024040948",
+        "timestamp": "03092024040950",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "message_id": "guest03092024040948",
+        "timestamp": "03092024040950",
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Okay, I'm adding a button that says \"Hello World.\"",
         "timestamp": "03092024040950",
         "message_id": "guest03092024040948"
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"add a button that says 'Hello World'\", \"checked\": false}, {\"feature\": \"add a search bar for blockchain topics\", \"checked\": true}, {\"feature\": \"include a filter option for recent news\", \"checked\": false}, {\"feature\": \"add user feedback section\", \"checked\": false}, {\"feature\": \"create a favorites section for saved articles\", \"checked\": false}], \"input_token_count\": 269, \"output_token_count\": 94, \"time_taken\": \"0:00:01.215493\"}",
+        "message_id": "guest03092024040921",
         "timestamp": "03092024040931",
-        "message_id": "guest03092024040921"
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"What color or style do you envision for the 'Submit' button?\", \"option1\": \"Classic blue with rounded edges\", \"option2\": \"Bold red with sharp corners\"}], \"input_token_count\": 315, \"output_token_count\": 96, \"time_taken\": \"0:00:00.984310\"}",
+        "message_id": "guest03092024040921",
         "timestamp": "03092024040928",
-        "message_id": "guest03092024040921"
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button that says Submit.",
+        "message_id": "guest03092024040921",
         "timestamp": "03092024040924",
-        "message_id": "guest03092024040921"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button that says Submit",
+        "message_id": "guest03092024040921",
         "timestamp": "03092024040923",
-        "message_id": "guest03092024040921"
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Hello World' button\", \"checked\": true}, {\"feature\": \"Include a loading animation for button actions\", \"checked\": false}, {\"feature\": \"Display a confirmation message after button click\", \"checked\": false}, {\"feature\": \"Make the button change color on hover\", \"checked\": false}, {\"feature\": \"Add tooltips for button functionality\", \"checked\": true}], \"input_token_count\": 247, \"output_token_count\": 95, \"time_taken\": \"0:00:01.086844\"}",
+        "message_id": "guest03092024040819",
         "timestamp": "03092024040828",
-        "message_id": "guest03092024040819"
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed within the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What style or design do you envision for the 'Hello World' button?\", \"option1\": \"A simple, flat design\", \"option2\": \"A gradient or 3D effect\"}], \"input_token_count\": 293, \"output_token_count\": 102, \"time_taken\": \"0:00:01.110994\"}",
+        "message_id": "guest03092024040819",
         "timestamp": "03092024040825",
-        "message_id": "guest03092024040819"
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a button that says hello world",
+        "message_id": "guest03092024040819",
         "timestamp": "03092024040820",
-        "message_id": "guest03092024040819"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'm adding a button that says \"Hello World.\"",
-        "timestamp": "03092024040820",
-        "message_id": "guest03092024040819"
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     }
 ]
