@@ -15,5 +15,14 @@
         "component_file_name": "simple_footer_component_1725336442",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm adding a button that says \"Hello World.\"",
+        "message_id": "guest03092024040819",
+        "timestamp": "03092024040820",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
