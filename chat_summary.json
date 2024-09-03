@@ -8,6 +8,30 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Add a button that says 'Submit'\", \"checked\": false}, {\"feature\": \"Create a sidebar with navigation links (Home, About, Contact)\", \"checked\": true}, {\"feature\": \"Implement a search bar for blockchain topics\", \"checked\": false}, {\"feature\": \"Add user profile section with customization options\", \"checked\": false}, {\"feature\": \"Include a notification panel for updates on new blockchain information\", \"checked\": false}], \"input_token_count\": 298, \"output_token_count\": 124, \"time_taken\": \"0:00:01.289870\"}",
+        "message_id": "guest03092024040948",
+        "timestamp": "03092024040959",
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The user requested the addition of a button that says \"Hello World.\" The AI assistant acknowledged this request, stating, \"Okay, I'm adding a button that says 'Hello World.'\" Subsequently, the user was asked two questions regarding the implementation of the button. The first question inquired about the button's placement within the app, offering two options: \"At the top of the main screen\" or \"At the bottom of the main screen.\" The second question focused on the button's design style, providing options for a \"simple, flat design\" or a \"gradient or 3D effect.\"",
+        "timestamp": "03092024040959",
+        "message_id": "guest03092024040948"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style or design do you envision for the sidebar? Should it be minimalist or more colorful and engaging?\", \"option1\": \"Minimalist\", \"option2\": \"Colorful and engaging\"}, {\"question 2\": \"Do you have any specific placement in mind for the sidebar, like on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 344, \"output_token_count\": 98, \"time_taken\": \"0:00:01.176427\"}",
+        "message_id": "guest03092024040948",
+        "timestamp": "03092024040956",
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I\u2019ll add a sidebar with the specified navlinks.",
         "message_id": "guest03092024040948",
@@ -24,12 +48,6 @@
         "component_file_name": "simple_footer_component_1725336442",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Okay, I'm adding a button that says \"Hello World.\"",
-        "timestamp": "03092024040950",
-        "message_id": "guest03092024040948"
     },
     {
         "role": "chat_ui_checklist",
@@ -72,24 +90,6 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Hello World' button\", \"checked\": true}, {\"feature\": \"Include a loading animation for button actions\", \"checked\": false}, {\"feature\": \"Display a confirmation message after button click\", \"checked\": false}, {\"feature\": \"Make the button change color on hover\", \"checked\": false}, {\"feature\": \"Add tooltips for button functionality\", \"checked\": true}], \"input_token_count\": 247, \"output_token_count\": 95, \"time_taken\": \"0:00:01.086844\"}",
         "message_id": "guest03092024040819",
         "timestamp": "03092024040828",
-        "component_file_name": "simple_footer_component_1725336442",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed within the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What style or design do you envision for the 'Hello World' button?\", \"option1\": \"A simple, flat design\", \"option2\": \"A gradient or 3D effect\"}], \"input_token_count\": 293, \"output_token_count\": 102, \"time_taken\": \"0:00:01.110994\"}",
-        "message_id": "guest03092024040819",
-        "timestamp": "03092024040825",
-        "component_file_name": "simple_footer_component_1725336442",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest03092024040819",
-        "timestamp": "03092024040820",
         "component_file_name": "simple_footer_component_1725336442",
         "div_id": "",
         "div_action": ""
