@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style or design do you envision for the sidebar? Should it be minimalist or more colorful and engaging?\", \"option1\": \"Minimalist\", \"option2\": \"Colorful and engaging\"}, {\"question 2\": \"Do you have any specific placement in mind for the sidebar, like on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 344, \"output_token_count\": 98, \"time_taken\": \"0:00:01.176427\"}",
+        "message_id": "guest03092024040948",
+        "timestamp": "03092024040956",
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I\u2019ll add a sidebar with the specified navlinks.",
         "message_id": "guest03092024040948",
