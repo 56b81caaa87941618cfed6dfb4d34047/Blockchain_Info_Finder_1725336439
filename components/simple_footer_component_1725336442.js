@@ -20,9 +20,12 @@ INSTRUCTION: Both of these lines are center aligned.
                 <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                     © 2023 BlockScan. Empowering users with real-time blockchain insights and discoveries. Stay ahead in the crypto world.
                 </div>
-                <div class="flex-1 flex justify-center mt-4">
+                <div class="flex-1 flex justify-center mt-4 space-x-4">
                     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow">
                         Hello World
+                    </button>
+                    <button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded shadow">
+                        Submit
                     </button>
                 </div>
             </div>
