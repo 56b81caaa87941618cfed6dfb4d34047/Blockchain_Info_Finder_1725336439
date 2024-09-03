@@ -6,5 +6,14 @@
         "timestamp": "1725336442",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest03092024040819",
+        "timestamp": "03092024040820",
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
     }
 ]
