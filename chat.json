@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Hello World' button\", \"checked\": true}, {\"feature\": \"Include a loading animation for button actions\", \"checked\": false}, {\"feature\": \"Display a confirmation message after button click\", \"checked\": false}, {\"feature\": \"Make the button change color on hover\", \"checked\": false}, {\"feature\": \"Add tooltips for button functionality\", \"checked\": true}], \"input_token_count\": 247, \"output_token_count\": 95, \"time_taken\": \"0:00:01.086844\"}",
+        "message_id": "guest03092024040819",
+        "timestamp": "03092024040828",
+        "component_file_name": "simple_footer_component_1725336442",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be placed within the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What style or design do you envision for the 'Hello World' button?\", \"option1\": \"A simple, flat design\", \"option2\": \"A gradient or 3D effect\"}], \"input_token_count\": 293, \"output_token_count\": 102, \"time_taken\": \"0:00:01.110994\"}",
         "message_id": "guest03092024040819",
